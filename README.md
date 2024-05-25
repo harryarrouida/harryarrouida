@@ -22,7 +22,7 @@ const aboutMe = {
       js: ["Node", "Express"],
       php: ["jquery"]
     },
-    framework: ["reactjs", "nextjs", "laravel", "svelt"],
+    framework: ["reactjs", "nextjs", "laravel", "svelte"],
     databases: ["MongoDB", "MySQL"],
     misc: ["Firebase", "Docker"]
   },
